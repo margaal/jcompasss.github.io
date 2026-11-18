@@ -8,4 +8,4 @@ jcompass est un outil d'aide à l'orientation destiné aux jeunes (alternance, s
 - Statistiques agrégées uniquement, aucune revente de données
 - Les sources de chaque chiffre sont citées
 
-Contact : TON_ADRESSE_EMAIL
+Contact : marcelinseble@gmail.com
